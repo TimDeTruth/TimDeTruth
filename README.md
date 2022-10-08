@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TimDeTruth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @TimDeTruth Timmy Lau (didn't know my name was popular in Canada at a particular coffee shop ☕)
+- 👀 I’m interested in video games🎮, working out 💪, music 🎵, guitar🎸, hip hop 🕺
+- 🌱 I’m currently learning too many things that for my brain to contain.
+- 💞️ I’m looking to collaborate on a really interesting project 🧠
+<!-- - 📫 How to reach me ... -->
 
 <!---
 TimDeTruth/TimDeTruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
