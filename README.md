@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TimDeTruth Timmy Lau (didn't know my name was popular in Canada at a particular coffee shop ☕)
-- 👀 I’m interested in video games🎮, working out 💪, music 🎵, guitar🎸, hip hop 🕺
-- 🌱 I’m currently learning too many things that for my brain to contain.
-- 💞️ I’m looking to collaborate on a really interesting project 🧠
+- 👀 I’m interested in video games🎮, working out 💪, music 🎵, guitar🎸
 <!-- - 📫 How to reach me ... -->
 
 <!---
